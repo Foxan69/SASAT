@@ -20,7 +20,7 @@ public class Main {
             array[i] = scanner.nextInt();
         }
 
-        System.out.println("Введенный массив:");
+        System.out.println("Введенный массивв:");
         System.out.println(Arrays.toString(array));
     }
 }
